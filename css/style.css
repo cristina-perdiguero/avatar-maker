@@ -1,0 +1,21 @@
+@import url("avatar.css"); 
+@import url("select.css");
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background-color: aqua;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
