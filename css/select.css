@@ -15,3 +15,24 @@ button{
     border: none;
     box-shadow: none;
 }
+button[data-color="#FFF001"]{
+    background-color: #FFF001;
+}
+button[data-color="#FB0000"]{
+    background-color: #FB0000;
+}
+button[data-color="#01FF1C"]{
+    background-color: #01FF1C;
+}
+button[data-color="#FF9B01"]{
+    background-color: #FF9B01;
+}
+button[data-color="#0109FF"]{
+    background-color: #0109FF;
+}
+button[data-color="#A601FF"]{
+    background-color: #A601FF;
+}
+button[data-color="#d87093"]{
+    background-color: #d87093;
+}
