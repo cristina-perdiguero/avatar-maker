@@ -9,7 +9,7 @@
     width: 200px;
     height: 300px;
     border-radius: 40% 40% 47% 47% / 39% 39% 16% 16%;
-    background-color: palevioletred;
+    background-color: #d87093;
     background-image: linear-gradient( to right, transparent, #ffffff5d 70%, transparent);
     box-shadow: inset -0px -10px 70px -24px #222222; 
     background-repeat: no-repeat;
