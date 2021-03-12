@@ -15,6 +15,13 @@ button{
     border: none;
     box-shadow: none;
 }
+.select-group{
+    min-width: 200px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid white; 
+    box-shadow: 2px 2px #222222;
+}
 button[data-color="#FFF001"]{
     background-color: #FFF001;
 }

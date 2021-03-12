@@ -16,6 +16,9 @@
     background-size: cover;
     position: relative;
 }
+.body-group{
+    box-shadow: 0px 40px 40px 5px #25252575;
+}
 .face{
     width: 50%;
     height: 90px;
